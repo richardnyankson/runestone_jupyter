@@ -24,10 +24,10 @@ This is just a sample of what you can do.  The index.rst file is the table of co
 ::
 
 
-   .. toctree::
-      :maxdepth: 2
+   .. youtube::RDuWygULVuo
 
-      some/path/myfile.rst
+
+    
 
 
 Section 2: Links
@@ -92,6 +92,6 @@ the ``templates_path`` points to them in your conf.py.
 
 conf.py:
 
-.. code:: 
+.. code::
 
     templates_path = ["_templates"]
