@@ -24,7 +24,7 @@ This is just a sample of what you can do.  The index.rst file is the table of co
 
 
 
-   .. youtube::3fUbBnN_H2c
+   .. youtube:: 3fUbBnN_H2c
 
 
 
