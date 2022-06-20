@@ -19,7 +19,7 @@ SECTION 1: Introduction
 Congratulations!   If you can see this file you have probably successfully run the ``runestone init`` command.  If you are looking at this as a source file you should now run ``runestone build``  to generate html files.   Once you have run the build command you can run ``runestone serve`` and then view this in your browser at ``http://localhost:8000``
 
 This is just a sample of what you can do.  The index.rst file is the table of contents for your entire project.  You can put all of your writing in the index, or  you can include additional rst files.  Those files may even be in subdirectories that you can reference using a relative path.
-The link below is guide a Youtube video about Data Science.
+The link below is a Youtube video about Data Science.
 
 
 
@@ -101,4 +101,5 @@ Section 5: Resources
 :::::::::::::::::::::
 
 The following will provide resources that will enable one to read more about data science.
-* `Practical Data Science Lecture by Carnegie Mellon <https://www.datasciencecourse.org/lectures/>`_
+
+* Carnegie Mellon `Practical Data Science Lecture <https://www.datasciencecourse.org/lectures/>`_
