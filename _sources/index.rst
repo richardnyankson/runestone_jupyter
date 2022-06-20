@@ -21,13 +21,13 @@ Congratulations!   If you can see this file you have probably successfully run t
 This is just a sample of what you can do.  The index.rst file is the table of contents for your entire project.  You can put all of your writing in the index, or  you can include additional rst files.  Those files may even be in subdirectories that you can reference using a relative path.
 
 
-::
 
 
-   .. youtube::RDuWygULVuo
+
+   .. youtube::3fUbBnN_H2c
 
 
-    
+
 
 
 Section 2: Links
