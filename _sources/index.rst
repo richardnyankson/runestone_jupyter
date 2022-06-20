@@ -69,8 +69,8 @@ Multiple Choice
     :answer_b: yellow
     :answer_c: black
     :answer_d: green
-    :feedback_a: Red is a definitely on of the colors.
-    :feedback_b: Yes, yellow is correct.
+    :feedback_a: Red is a definitely one of the colors.
+    :feedback_b: Yes, yellow is also correct.
     :feedback_c: Remember the acronym...ROY G BIV.  B stands for blue.
     :feedback_d: Yes, green is one of the colors.
 
