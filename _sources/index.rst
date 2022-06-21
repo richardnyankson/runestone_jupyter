@@ -107,7 +107,7 @@ The following will provide resources that will enable one to read more about dat
 Section 6: ActiveCode
 ::::::::::::::::::::::
 ActiveCode
-
+--------------------------
 
 .. activecode:: ac_ex_content
    :language: python
