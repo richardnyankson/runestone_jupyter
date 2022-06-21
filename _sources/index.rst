@@ -125,3 +125,25 @@ ActiveCode
    Section 7: more
    :::::::::::::::
    Adding more features to the book
+
+   Section 7: Javascript
+   :::::::::::::::::::::
+   Implementation of Javascript
+  ----------------------------------
+
+   .. activecode:: ac-example-js
+   :language: javascript
+   :enabledownload:
+
+   var x = 10;
+   var y = 11;
+   var z = x + y;
+   console.log(z);
+   function fact(n) {
+      if(n <= 1) return 1;
+      else {
+          return n * fact(n-1);
+      }
+   }
+   console.log(fact(10));
+   writeln('hello world');
