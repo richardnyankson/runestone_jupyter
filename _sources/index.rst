@@ -126,12 +126,12 @@ ActiveCode
    :::::::::::::::
    Adding more features to the book
 
-   Section 7: Javascript
-   :::::::::::::::::::::
-   Implementation of Javascript
-  ----------------------------------
+Section 7: Javascript
+:::::::::::::::::::::
+Implementation of Javascript
+----------------------------------
 
-   .. activecode:: ac-example-js
+.. activecode:: ac-example-js
    :language: javascript
    :enabledownload:
 
@@ -148,10 +148,9 @@ ActiveCode
    console.log(fact(10));
    writeln('hello world');
 
-
-   Section 8: javascript
-   ::::::::::::::::::::::
-   Implementation of Java
+Section 8: javascript
+::::::::::::::::::::::
+Implementation of Java
 
    .. activecode:: ac-ex-java
    :language: java
