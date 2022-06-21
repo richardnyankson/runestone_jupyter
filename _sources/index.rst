@@ -104,12 +104,24 @@ The following will provide resources that will enable one to read more about dat
 
 * Carnegie Mellon `Practical Data Science Lecture <https://www.datasciencecourse.org/lectures/>`_
 
-
+Section 6: ActiveCode
+::::::::::::::::::::::
 ActiveCode
-----------
+--------------------------
 
-.. activecode:: codeexample2
+.. activecode:: ac_ex_content
    :language: python
 
- for _ in range(5):
-    print("How to think like a data Scientist")
+   Fix the following code so that it **always** correctly adds ``two`` numbers.
+
+   * Your solution must use the parameters a and b
+   ~~~~
+   def add(a,b):
+       return 4
+
+   ====
+   # TODO: add unit tests
+
+   Section 7: more
+   :::::::::::::::
+   Adding more features to the book
