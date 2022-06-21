@@ -105,9 +105,12 @@ The following will provide resources that will enable one to read more about dat
 * Carnegie Mellon `Practical Data Science Lecture <https://www.datasciencecourse.org/lectures/>`_
 
 
+ActiveCode
+----------
+
 .. activecode:: codeexample2
    :coach:
    :caption: This is a caption
 
- for i in range(5):
+ for _ in range(5):
     print("How to think like a data Scientist")
