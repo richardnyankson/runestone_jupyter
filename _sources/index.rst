@@ -103,3 +103,11 @@ Section 5: Resources
 The following will provide resources that will enable one to read more about data science.
 
 * Carnegie Mellon `Practical Data Science Lecture <https://www.datasciencecourse.org/lectures/>`_
+
+
+.. activecode:: codeexample1
+   :coach:
+   :caption: This is a caption
+ ~~~~~~
+ for i in range(5):
+    print("How to think like a data Scientist")
