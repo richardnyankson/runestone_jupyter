@@ -109,8 +109,7 @@ ActiveCode
 ----------
 
 .. activecode:: codeexample2
-   :coach:
-   :caption: This is a caption
+   :language: python
 
  for _ in range(5):
     print("How to think like a data Scientist")
