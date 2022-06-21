@@ -127,7 +127,6 @@ ActiveCode
    Adding more features to the book
 
 Section 7: Javascript
-:::::::::::::::::::::
 Implementation of Javascript
 ----------------------------------
 
@@ -149,7 +148,6 @@ Implementation of Javascript
    writeln('hello world');
 
 Section 8: javascript
-::::::::::::::::::::::
 Implementation of Java
 
    .. activecode:: ac-ex-java
