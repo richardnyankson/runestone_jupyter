@@ -126,50 +126,22 @@ ActiveCode
    :::::::::::::::
    Adding more features to the book
 
-Section 7: Javascript
-Implementation of Javascript
-----------------------------------
 
-.. activecode:: ac-example-js
-   :language: javascript
-   :enabledownload:
-
-   var x = 10;
-   var y = 11;
-   var z = x + y;
-   console.log(z);
-   function fact(n) {
-      if(n <= 1) return 1;
-      else {
-          return n * fact(n-1);
-      }
-   }
-   console.log(fact(10));
-   writeln('hello world');
-
-Section 8: javascript
+Section 7: Codelens
+::::::::::::::::::::::
 Implementation of Java
 
-   .. activecode:: ac-ex-java
-   :language: java
-   :interpreterargs: ['-Xrs', '-Xss8m', '-Xmx128m']
-   :stdin: 100
-   :enabledownload:
+.. codelens:: cl_ex1
+   # from: http://www.ece.uci.edu/~chou/py02/python.html
+   def InsertionSort(A):
+       for j in range(1, len(A)):
+          key = A[j]
+          i = j - 1
+          while (i >= 0) and (A[i] > key):
+              A[i+1] = A[i]
+              i = i - 1
+              A[i+1] = key
 
-   import java.util.Scanner;
-
-   public class TempConv {
-       public static void main(String[] args) {
-            Double fahr;
-            Double cel;
-            Scanner in;
-
-            in = new Scanner(System.in);
-            System.out.println("Enter the temperature in F: ");
-            fahr = in.nextDouble();
-
-            cel = (fahr - 32) * 5.0/9.0;
-            System.out.println(fahr + " degrees F is: " + cel + " C");
-       }
-
-   }
+   input = [8, 3, 9, 15, 29, 7, 10]
+   InsertionSort(input)
+   print(input)
