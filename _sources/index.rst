@@ -132,7 +132,7 @@ Section 7: Codelens
 Implementation of Codelens
 ------------------------------
 .. codelens:: cl_ex1
-   
+
    # from: http://www.ece.uci.edu/~chou/py02/python.html
    def InsertionSort(A):
        for j in range(1, len(A)):
@@ -151,7 +151,7 @@ Section 8
 :::::::::::::
 Integrating jupyter notebook
 --------------------------------
-.. jupyterlite::
+.. jupyterlite:: Jupiter Notebook
    :width: 100%
    :height: 600px
    :prompt: Try JupyterLite!
