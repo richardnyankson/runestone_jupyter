@@ -151,7 +151,7 @@ Section 8
 :::::::::::::
 Integrating jupyter notebook
 --------------------------------
-.. jupyterlite:: Jupiter Notebook
+.. jupyterlite:: 
    :width: 100%
    :height: 600px
    :prompt: Try JupyterLite!
