@@ -146,13 +146,3 @@ Implementation of Codelens
    input = [8, 3, 9, 15, 29, 7, 10]
    InsertionSort(input)
    print(input)
-
-Section 8
-:::::::::::::
-Integrating jupyter notebook
---------------------------------
-.. jupyterlite:: 
-   :width: 100%
-   :height: 600px
-   :prompt: Try JupyterLite!
-   :prompt_color: #00aa42
