@@ -147,13 +147,12 @@ Implementation of Codelens
    InsertionSort(input)
    print(input)
 
-
-   Section 8: JupyterLite
-   ::::::::::::::::::::::::::
-   Integrating jupyter notebook
-   --------------------------------
-   .. jupyterlite::
-      :width: 100%
-      :height: 600px
-      :prompt: Try JupyterLite!
-      :prompt_color: #00aa42
+Section 8: JupyterLite
+::::::::::::::::::::::::::
+Integrating jupyter notebook
+--------------------------------
+.. jupyterlite::
+   :width: 100%
+   :height: 600px
+   :prompt: Try JupyterLite!
+   :prompt_color: #00aa42
