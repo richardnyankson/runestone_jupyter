@@ -151,8 +151,8 @@ Section 8: JupyterLite
 ::::::::::::::::::::::::::
 Integrating jupyter notebook
 --------------------------------
-.. jupyterlite:: 
+.. jupyterlite:: NumPy_Basics.ipynb
    :width: 100%
-   :height: 600px
+   :height: 800px
    :prompt: Try JupyterLite!
    :prompt_color: #00aa42
